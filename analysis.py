@@ -1,2 +1,8 @@
+import json
+import os
+import sys
+
+
 def analyze(data):
-    return data + 1
+    result = data + 1
+    return result
